@@ -1,0 +1,10 @@
+downloaded:
+  video_path: /home/sankalp/Projects/project_resources/youtube_downloaded_videos
+
+youtube:
+  api:
+    key: AIzaSyAWleZ0QuEdo7NXv9D4kPPO5OjoekuaA6w
+    service_name: youtube
+    version: v3
+  channel_ids:
+    - 

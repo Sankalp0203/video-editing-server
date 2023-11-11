@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "video-editing-server-new"
+version = "1.0.0"
+description = ""
+authors = ["Sankalp0203 <sankalp0203@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytube = "^15.0.0"
+google-api-python-client = "^2.107.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
